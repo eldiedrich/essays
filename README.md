@@ -14,3 +14,6 @@ Mary Cassatt is known for her works representing women and their relationships w
     - https://api.artic.edu/api/v1/artworks/13514/manifest.jsonintentional as Cassatt wanted to feature women in theirTakashima Ohisa Using Two Mirrors to Observe Her Coiffure, Kitagawa Utamaro
 
 The print 'The Coiffure' depicts a woman getting ready infront of her mirror. She is focusing on the task of doing her hair while she sits on striped lounge chair. Above her torso is exposed, but below is corvered by a plain cloth, likely a sheet. The subjects body is plainly contoured, showing a simple and delicate outline of a female figure. With the various colors and patters, we can get an insigth of the process of this print, and what was stamped on the paper first.
+
+.ve-media https://api.artic.edu/api/v1/artworks/14572/manifest.json left
+.ve-media https://api.artic.edu/api/v1/artworks/14591/manifest.json right
