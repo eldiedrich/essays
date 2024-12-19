@@ -1,4 +1,4 @@
-the floral floor pattern before covered the chair.ve-header "Mary Cassatt's Women and How They Were Influenced by Japonisme"
+.ve-header "Mary Cassatt's Women and How They Were Influenced by Japonisme"
 
 .ve-media https://api.artic.edu/api/v1/artworks/13534/manifest.json
 
